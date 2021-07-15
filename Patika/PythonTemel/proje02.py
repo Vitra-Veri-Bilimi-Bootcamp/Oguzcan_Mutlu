@@ -3,6 +3,6 @@
 
 def RLoL(lis):
     lis = lis[::-1]  # to reverse big list
-    lis = list(map(lambda x : x[::-1], lis))  # to reverse small lists in big list
+    lis = list(map(lambda x : x[::-1], lis))  # to reverse sublist
 
     return lis
