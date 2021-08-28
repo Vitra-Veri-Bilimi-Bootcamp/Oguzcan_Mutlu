@@ -1,0 +1,17 @@
+# Ödev olarak blog yazısı
+
+Eğitim veren platformaların "Öğrencilerimizden Şu Bu'nun blog yazısı" benzeri
+paylaşımlarına sık denk gelmeye başlayınca şaşırmıştım. Gittikleri eğitimi yazarak
+anlatan ne kadar çok insan var.
+
+Patika'daki dersleri takip etmeye başlayınca bu yazıların birer ödev olduklarını
+anladım. İçten gelen bir şey değildi yani.
+
+Şu an bu dersin bulunduğu patikaya 3541 kişi başlamış gözüküyor.
+
+Acaba bir ödev için açılıp sonra unutulan kaç hesap vardır?
+Bir hesabın ödev için açılmadığını nasıl anlayabiliriz?
+Her yazı bir enerji tüketiyor dersek, unutulan hesapların yararları, zararları var mıdır? 
+...
+
+Bu durumdan bir proje çıkabilir. 
